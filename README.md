@@ -6,7 +6,7 @@ I'm also studying web development on my own, with the help of [Rocketseat](https
 Also, I'm an architect and urban planner who dreams to transform architecture and design using technology. Tech is art!
 
 - 🔭 I’m currently searching for opportunities!
-- 🌱 I’m practicing `React`, `Node.JS`, `C#` and `Python`
+- 👨‍💻 I’m practicing `React`, `Node.JS`, `C#` and `Python`
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm a part of the LGBTQA+ community! Always proud 🌈
 
