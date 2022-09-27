@@ -3,7 +3,7 @@
 ### 👤 About me
 I'm a junior full-stack developer studying software development at [COTEMIG](https://cotemig.com.br/).\
 I'm also studying web development on my own, with the help of [Rocketseat](https://rocketseat.com.br/) and Udemy.\
-Also, I'm an architect and urban planner who dreams to transform architecture and design using technology. Tech is art!
+Also, I'm an architect and urban planner who dreams of transforming architecture and design using technology. Tech is art!
 
 - 🔭 I’m currently searching for opportunities!
 - 👨‍💻 I’m practicing `React`, `Node.JS`, `C#` and `Python`
