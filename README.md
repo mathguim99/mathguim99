@@ -1,7 +1,7 @@
 ## Hello and welcome! I'm Matheus 👋
 
 ### 👤 About me
-I'm a junior full-stack developer studying software development at [COTEMIG](https://cotemig.com.br/).\
+I'm a junior full-stack developer studying software development at [Newton Paiva](https://newtonpaiva.br/).\
 I'm also studying web development on my own, with the help of [Rocketseat](https://rocketseat.com.br/) and Udemy.\
 Also, I'm an architect and urban planner who dreams of transforming architecture and design using technology. Tech is art!
 
