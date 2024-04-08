@@ -5,7 +5,7 @@ I'm a junior full-stack developer studying software development at [Newton Paiva
 I'm also studying web development on my own, with the help of [Rocketseat](https://rocketseat.com.br/) and Udemy.\
 Also, I'm an architect and urban planner who dreams of transforming architecture and design using technology. Tech is art!
 
-- 🏬 I’m currently a Development Intern at [Bwtech](https://www.bwtech.com/)
+- 🏬 I’m currently a Development Trainee at [Bwtech](https://www.bwtech.com/)
 - 👨‍💻 I’m practicing `React`, `Node.JS`, `C#` and `Python`
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm a part of the LGBTQA+ community! Always proud 🌈
